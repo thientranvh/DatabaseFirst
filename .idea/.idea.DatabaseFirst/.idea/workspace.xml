@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a1052e1-2b1d-46ef-a663-da7e099a7024" name="Default Changelist" comment="Add .gitignore file ignore all IDE setting files">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatabaseFirst/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatabaseFirst/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatabaseFirst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatabaseFirst/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DatabaseFirst.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DatabaseFirst.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="6a1052e1-2b1d-46ef-a663-da7e099a7024" name="Default Changelist" comment="Add .gitignore file ignore all IDE setting files" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +9,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/a.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +55,12 @@
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="DatabaseFirst" type="24d0babc:SolutionExplorerModelNode" />
               <item name="DatabaseFirst" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="DatabaseFirst" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DatabaseFirst" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="client" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -121,12 +129,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564854239986</updated>
-      <workItem from="1564854256155" duration="2659000" />
+      <workItem from="1564854256155" duration="3241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2659000" />
+    <option name="totallyTimeSpent" value="3241000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -138,10 +146,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="698" extended-state="1" />
+    <frame x="10" y="20" width="1346" height="698" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -159,7 +167,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32879046" />
       <window_info anchor="right" id="Errors In Solution" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Unit Tests Coverage" />
@@ -195,6 +203,9 @@
           <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/a.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
