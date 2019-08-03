@@ -4,10 +4,14 @@
     <e p="C:\Users\FPT\.Rider2019.1\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\FPT\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_DatabaseFirst.811155557.00" t="ExcludeRecursive" />
     <e p="E:\Code on Riders\3Si\Project1\DatabaseFirst" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
       <e p="app.config" t="Include" />
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
+      <e p="client" t="Include">
+        <e p="a.js" t="Include" />
+      </e>
       <e p="Controllers" t="Include">
         <e p="HomeController.cs" t="Include" />
       </e>
